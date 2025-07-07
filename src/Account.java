@@ -75,7 +75,7 @@ public class Account {
             System.out.println("you have to send 1 or greater");
         }
 
-        account.balance = amount;
+        account.balance = amount + account.balance;
 
         this.balance = balance - amount;
         return balance;

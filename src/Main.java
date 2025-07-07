@@ -6,7 +6,7 @@
 
             Account ac1 = new Account("1123237899","yasir", 500);
             Account ac2 = new Account("1123777876","ahmed", 200);
-            Account ac3 = new Account("1151158811","fahad", 0);
+            Account ac3 = new Account("1151158811","fahad", 500);
 
 
                     System.out.println("Initial state:");
